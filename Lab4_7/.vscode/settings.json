@@ -1,0 +1,15 @@
+{
+    "codesnippetsai.gpt.accessToken": "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",
+    "files.associations": {
+        "errno.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "datatime.h": "c",
+        "stdio.h": "c",
+        "time.h": "c",
+        "cstdlib": "c",
+        "log.h": "c",
+        "stdarg.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
